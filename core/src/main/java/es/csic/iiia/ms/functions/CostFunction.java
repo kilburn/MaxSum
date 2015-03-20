@@ -47,7 +47,6 @@ import java.util.Set;
 /**
  * Represents a function defined over all possible combinations of the variables in its domain.
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 public interface CostFunction {
 

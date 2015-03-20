@@ -40,7 +40,6 @@ import java.util.Objects;
 
 /**
  *
- * @author Marc Pujol <mpujol@iiia.csic.es>
  */
 public class StringIdentity implements Identity {
     private final String name;

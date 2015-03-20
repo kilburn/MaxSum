@@ -42,7 +42,6 @@ import gnu.trove.iterator.TLongIterator;
 
 /**
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 public interface MasterIterator extends TLongIterator {
     public int[] getIndices();

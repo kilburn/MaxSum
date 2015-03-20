@@ -45,7 +45,6 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 public class VariableTest {
 

@@ -40,7 +40,6 @@ package es.csic.iiia.ms.functions;
 
 /**
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 
 

@@ -47,7 +47,6 @@ import org.junit.Test;
 
 /**
  *
- * @author marc
  */
 public class HypercubeCostFunctionTest extends AbstractCostFunctionTest {
 

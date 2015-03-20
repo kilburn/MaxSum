@@ -40,7 +40,6 @@ import es.csic.iiia.ms.functions.CostFunction;
 
 /**
  *
- * @author Marc Pujol <mpujol@iiia.csic.es>
  */
 public interface Communicator {
 

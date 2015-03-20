@@ -59,7 +59,6 @@ import org.junit.Test;
 
 /**
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 @Ignore
 public abstract class CostFunctionTest {

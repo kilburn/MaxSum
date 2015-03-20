@@ -49,7 +49,6 @@ import java.util.TreeMap;
 
 /**
  *
- * @author Marc Pujol <mpujol@iiia.csic.es>
  */
 public abstract class AbstractNode implements Node {
     private final Communicator comunicator;

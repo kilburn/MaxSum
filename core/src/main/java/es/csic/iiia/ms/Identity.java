@@ -38,7 +38,6 @@ package es.csic.iiia.ms;
 
 /**
  *
- * @author Marc Pujol <mpujol@iiia.csic.es>
  */
 public interface Identity extends Comparable<Identity> {
 

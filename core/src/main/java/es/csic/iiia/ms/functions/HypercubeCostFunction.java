@@ -51,7 +51,6 @@ import java.util.NoSuchElementException;
  * algorithms that use filtering techniques will prefer to use other (sparse)
  * representations of the hypercubes.
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 public final class HypercubeCostFunction extends AbstractCostFunction implements Serializable {
 

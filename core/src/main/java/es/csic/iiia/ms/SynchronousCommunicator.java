@@ -45,7 +45,6 @@ import java.util.Map;
 
 /**
  *
- * @author Marc Pujol
  */
 public class SynchronousCommunicator implements Communicator {
     

@@ -62,7 +62,6 @@ import java.util.Set;
  * be made over cost functions, while delegating the actual cost/utility values
  * representation/storage to the concrete class that extends lit.
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 public abstract class AbstractCostFunction<T> implements CostFunction {
 

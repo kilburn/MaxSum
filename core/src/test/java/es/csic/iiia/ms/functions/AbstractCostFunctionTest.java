@@ -46,7 +46,6 @@ import org.junit.Test;
 
 /**
  *
- * @author marc
  */
 @Ignore
 public abstract class AbstractCostFunctionTest extends CostFunctionTest {

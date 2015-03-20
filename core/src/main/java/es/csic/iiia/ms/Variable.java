@@ -44,7 +44,6 @@ import java.util.Objects;
  * Immutable discrete variable, represented by an id and it's domain (number
  * of possible states).
  *
- * @author Marc Pujol <mpujol at iiia.csic.es>
  */
 public final class Variable implements Comparable<Variable> {
 
